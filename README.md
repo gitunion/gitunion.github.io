@@ -1,2 +1,2 @@
 # gitunion.github.io
-First publc page for test
+First public page for test
